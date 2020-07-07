@@ -1,0 +1,13 @@
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\bin\Debug\netcoreapp3.1\Aula30.exe
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\bin\Debug\netcoreapp3.1\Aula30.deps.json
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\bin\Debug\netcoreapp3.1\Aula30.runtimeconfig.json
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\bin\Debug\netcoreapp3.1\Aula30.runtimeconfig.dev.json
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\bin\Debug\netcoreapp3.1\Aula30.dll
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\bin\Debug\netcoreapp3.1\Aula30.pdb
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\obj\Debug\netcoreapp3.1\Aula30.csprojAssemblyReference.cache
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\obj\Debug\netcoreapp3.1\Aula30.csproj.CoreCompileInputs.cache
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\obj\Debug\netcoreapp3.1\Aula30.AssemblyInfoInputs.cache
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\obj\Debug\netcoreapp3.1\Aula30.AssemblyInfo.cs
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\obj\Debug\netcoreapp3.1\Aula30.dll
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\obj\Debug\netcoreapp3.1\Aula30.pdb
+C:\Users\xbsbu\Documents\Senai\Projetos - Senai\Aula30\obj\Debug\netcoreapp3.1\Aula30.genruntimeconfig.cache
